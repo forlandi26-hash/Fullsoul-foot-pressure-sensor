@@ -13,8 +13,10 @@ _quick start_:
 5. Startwired logging (recommended starting point) cd programspython 	log_velostat_sensor_h5.py or python log_velostat_sensor_h5.py 	--log_left
 6. Apply pressure to the insole during recording (otherwise data will be empty)
 7. check generated .h5 file size (>100-500kb = good) then visualize
+-----------------------------------------------------------------------------------------------------------------------------------
 **Acknowledgment**
-We gratfully acknowledge **Kai Burain, Chutong Ren, and Arved Strauch** for their foundational work on the Fullsoul project; we also acknowledge the work done by **Tckvitishvili et. al.** for the continuation of this project.
+We gratefully acknowledge **Kai Burain, Chutong Ren, and Arved Strauch** for their foundational work on the Fullsoul project; we also acknowledge the work done by **Tckvitishvili et. al.** for the continuation of this project.
+
 **Licence**
 this repository is provided for educational and research purposes. Reproduction or redistribution must retain full attribution to both the original and current authors. 
 
