@@ -15,8 +15,9 @@ _quick start_:
 7. check generated .h5 file size (>100-500kb = good) then visualize
 -----------------------------------------------------------------------------------------------------------------------------------
 **Acknowledgment**
+--------------------------------------------------
 We gratefully acknowledge **Kai Burain, Chutong Ren, and Arved Strauch** for their foundational work on the Fullsoul project; we also acknowledge the work done by **Tckvitishvili et. al.** for the continuation of this project.
-
+--------------------------------------------------
 **Licence**
 this repository is provided for educational and research purposes. Reproduction or redistribution must retain full attribution to both the original and current authors. 
 
