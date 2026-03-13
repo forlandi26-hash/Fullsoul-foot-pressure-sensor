@@ -3,7 +3,7 @@ This is our repository for the Fullsoul foot pressure sensor project of the wint
 ----------------------------------------------------------------------------------------
 This project is a further development of the 2024 CACOM project fcosued on wireless plantar pressure measurement using sensor-laden insoles. The intent is to caputre real time pressure data from 208 sensors, to demonstrate shifts in pressure. 
 
-
+readme must contain a concise guide describing what's inside the package and how to reproduce your key results. 
 
 
 
